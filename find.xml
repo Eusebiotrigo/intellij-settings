@@ -5,7 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*filter.java</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*.csv, *.impex</mask>
@@ -27,7 +27,6 @@
     <mask>*tag,*jsp</mask>
     <mask>*spring.xml</mask>
     <mask>*xml</mask>
-    <mask>*.properties</mask>
     <mask>*.tag</mask>
     <mask>*-items.xml</mask>
     <mask>*.java</mask>
@@ -36,5 +35,6 @@
     <mask>*-spring.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
