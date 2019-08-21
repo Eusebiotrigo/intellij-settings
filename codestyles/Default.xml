@@ -1,35 +1,23 @@
 <code_scheme name="Default" version="173">
+  <option name="GENERATE_FINAL_LOCALS" value="true" />
+  <option name="GENERATE_FINAL_PARAMETERS" value="true" />
+  <option name="WRAP_ON_TYPING" value="0" />
   <JavaCodeStyleSettings>
     <option name="GENERATE_FINAL_LOCALS" value="true" />
     <option name="GENERATE_FINAL_PARAMETERS" value="true" />
+    <option name="REPLACE_INSTANCEOF_AND_CAST" value="true" />
   </JavaCodeStyleSettings>
   <Properties>
+    <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
     <option name="KEEP_BLANK_LINES" value="true" />
   </Properties>
-  <TypeScriptCodeStyleSettings version="0">
-    <option name="FORCE_SEMICOLON_STYLE" value="true" />
-    <option name="FORCE_QUOTE_STYlE" value="true" />
-    <option name="VAR_DECLARATION_WRAP" value="0" />
-    <option name="IMPORTS_WRAP" value="0" />
-    <option name="SPACES_WITHIN_IMPORTS" value="true" />
-  </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_TEXT_WRAP" value="0" />
   </XML>
   <codeStyleSettings language="JAVA">
-    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
   </codeStyleSettings>
-  <codeStyleSettings language="TypeScript">
-    <option name="METHOD_CALL_CHAIN_WRAP" value="2" />
-    <option name="FOR_STATEMENT_LPAREN_ON_NEXT_LINE" value="true" />
-    <option name="DOWHILE_BRACE_FORCE" value="3" />
-    <option name="WHILE_BRACE_FORCE" value="3" />
-    <option name="FOR_BRACE_FORCE" value="3" />
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-    </indentOptions>
+  <codeStyleSettings language="Properties">
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
   </codeStyleSettings>
 </code_scheme>
