@@ -14,9 +14,6 @@
   <XML>
     <option name="XML_TEXT_WRAP" value="0" />
   </XML>
-  <codeStyleSettings language="JAVA">
-    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
-  </codeStyleSettings>
   <codeStyleSettings language="Properties">
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
   </codeStyleSettings>
