@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="[y] Custom" />
-    <option name="defaultScopeName" value="[y] Custom" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*xml" />
     <mask>*filter.java</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*.csv, *.impex</mask>
@@ -26,7 +26,6 @@
     <mask>*tag</mask>
     <mask>*tag,*jsp</mask>
     <mask>*spring.xml</mask>
-    <mask>*xml</mask>
     <mask>*.tag</mask>
     <mask>*-items.xml</mask>
     <mask>*.java</mask>
@@ -36,5 +35,6 @@
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*xml</mask>
   </component>
 </application>
