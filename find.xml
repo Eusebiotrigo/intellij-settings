@@ -5,7 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <mask>*filter.java</mask>
+    <option name="FILE_MASK" value="*-config.xml" />
     <mask>*.jsp, *.tag</mask>
     <mask>*.csv, *.impex</mask>
     <mask>*backoffice-config.xml</mask>
@@ -35,5 +35,6 @@
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*-config.xml</mask>
   </component>
 </application>
