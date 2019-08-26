@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.jsp, *.tag</mask>
     <mask>*.csv, *.impex</mask>
     <mask>*backoffice-config.xml</mask>
@@ -33,7 +34,7 @@
     <mask>*-spring.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.items.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
