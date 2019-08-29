@@ -7,6 +7,7 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*xml" />
     <mask>*backoffice-config.xml</mask>
     <mask>*impex*</mask>
     <mask>*populator.java</mask>
@@ -24,7 +25,6 @@
     <mask>*tag</mask>
     <mask>*tag,*jsp</mask>
     <mask>*spring.xml</mask>
-    <mask>*xml</mask>
     <mask>*.tag</mask>
     <mask>*-items.xml</mask>
     <mask>*.java</mask>
@@ -37,5 +37,6 @@
     <mask>*.xml</mask>
     <mask>*duni*</mask>
     <mask>*Facade*</mask>
+    <mask>*xml</mask>
   </component>
 </application>
