@@ -7,8 +7,7 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*xml" />
-    <mask>*java,*class</mask>
+    <option name="FILE_MASK" value="*items*xml" />
     <mask>*impex</mask>
     <mask>*properties</mask>
     <mask>Duni*java</mask>
@@ -38,5 +37,6 @@
     <mask>*XML</mask>
     <mask>*b</mask>
     <mask>*xml</mask>
+    <mask>*items*xml</mask>
   </component>
 </application>
