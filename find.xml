@@ -5,7 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*items.xml" />
+    <option name="FILE_MASK" value="*xml" />
     <mask>*properties</mask>
     <mask>Duni*java</mask>
     <mask>*populator*</mask>
@@ -32,9 +32,9 @@
     <mask>*action**java</mask>
     <mask>*XML</mask>
     <mask>*b</mask>
-    <mask>*xml</mask>
     <mask>*items*xml</mask>
     <mask>*impex</mask>
     <mask>*items.xml</mask>
+    <mask>*xml</mask>
   </component>
 </application>
