@@ -7,7 +7,7 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.impex" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>Duni*java</mask>
     <mask>*populator*</mask>
     <mask>**.java</mask>
@@ -20,7 +20,6 @@
     <mask>*spring.xml</mask>
     <mask>*.tag</mask>
     <mask>*-items.xml</mask>
-    <mask>*.java</mask>
     <mask>*Test.java</mask>
     <mask>*-spring.xml</mask>
     <mask>*.items.xml</mask>
@@ -38,5 +37,6 @@
     <mask>*xml</mask>
     <mask>*email*.impex</mask>
     <mask>*.impex</mask>
+    <mask>*.java</mask>
   </component>
 </application>
