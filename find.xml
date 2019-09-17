@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="[y] Custom" />
-    <option name="defaultScopeName" value="[y] Custom" />
-    <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*DAO.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -11,5 +11,6 @@
     <mask>*.java</mask>
     <mask>*en.properties</mask>
     <mask>*.xml</mask>
+    <mask>*DAO.java</mask>
   </component>
 </application>
