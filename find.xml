@@ -19,5 +19,6 @@
     <mask>*.vm</mask>
     <mask>*context*</mask>
     <mask>*.impex</mask>
+    <mask>*xml</mask>
   </component>
 </application>
