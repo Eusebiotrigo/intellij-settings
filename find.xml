@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*groovy" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
@@ -16,5 +15,6 @@
     <mask>*items.xml</mask>
     <mask>*-spring.xml</mask>
     <mask>*groovy</mask>
+    <mask>*java</mask>
   </component>
 </application>
