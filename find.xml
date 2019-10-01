@@ -17,5 +17,7 @@
     <mask>*items.xml</mask>
     <mask>*.impex</mask>
     <mask>*.jsp</mask>
+    <mask>*.tag</mask>
+    <mask>*.tld</mask>
   </component>
 </application>
