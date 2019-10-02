@@ -2,6 +2,10 @@
   <option name="GENERATE_FINAL_LOCALS" value="true" />
   <option name="GENERATE_FINAL_PARAMETERS" value="true" />
   <option name="WRAP_ON_TYPING" value="0" />
+  <ImpexCodeStyleSettings>
+    <option name="SPACE_AFTER_FIELD_VALUE_SEPARATOR" value="false" />
+    <option name="TABLIFY" value="false" />
+  </ImpexCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="GENERATE_FINAL_LOCALS" value="true" />
     <option name="GENERATE_FINAL_PARAMETERS" value="true" />
