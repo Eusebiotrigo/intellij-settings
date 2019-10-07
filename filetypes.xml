@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="003-update-cms-content_it" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="keystore" type="PLAIN_TEXT" />
       <mapping pattern=".xjc-xjcStaleFlag" type="PLAIN_TEXT" />
