@@ -20,5 +20,6 @@
     <mask>*test*</mask>
     <mask>*.java</mask>
     <mask>*.jsp</mask>
+    <mask>*.tag</mask>
   </component>
 </application>
