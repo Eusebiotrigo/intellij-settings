@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*controller.java" />
+    <option name="FILE_MASK" value="*impex" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.properties</mask>
@@ -21,8 +21,8 @@
     <mask>*.jsp</mask>
     <mask>*.tag</mask>
     <mask>*test*</mask>
-    <mask>*impex</mask>
     <mask>*controller*</mask>
     <mask>*controller.java</mask>
+    <mask>*impex</mask>
   </component>
 </application>
