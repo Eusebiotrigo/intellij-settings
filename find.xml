@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*test*" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.properties</mask>
@@ -17,9 +18,9 @@
     <mask>*controller*</mask>
     <mask>*xml</mask>
     <mask>*validat*</mask>
-    <mask>*test*</mask>
     <mask>*.java</mask>
     <mask>*.jsp</mask>
     <mask>*.tag</mask>
+    <mask>*test*</mask>
   </component>
 </application>
