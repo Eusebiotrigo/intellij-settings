@@ -1,6 +1,0 @@
-<application>
-  <component name="HybrisApplicationSettings">
-    <option name="allowedSendingPlainStatistics" value="true" />
-    <option name="sourceCodeDirectory" value="$USER_HOME$/Downloads" />
-  </component>
-</application>
