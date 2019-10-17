@@ -18,11 +18,11 @@
     <mask>*test*</mask>
     <mask>*controller*</mask>
     <mask>*controller.java</mask>
-    <mask>*items.xml</mask>
     <mask>*whole*</mask>
     <mask>*impex</mask>
     <mask>*test.java</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*items.xml</mask>
   </component>
 </application>
