@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.properties</mask>
@@ -14,7 +13,6 @@
     <mask>*facade*</mask>
     <mask>*xml</mask>
     <mask>*validat*</mask>
-    <mask>*.java</mask>
     <mask>*.jsp</mask>
     <mask>*.tag</mask>
     <mask>*test*</mask>
@@ -25,5 +23,6 @@
     <mask>*impex</mask>
     <mask>*test.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
