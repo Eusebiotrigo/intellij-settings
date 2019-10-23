@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*items.xml" />
+    <option name="FILE_MASK" value="*duni*java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -19,5 +19,6 @@
     <mask>*test.java</mask>
     <mask>*properties</mask>
     <mask>*items.xml</mask>
+    <mask>*duni*java</mask>
   </component>
 </application>
