@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*java,*class" />
+    <option name="FILE_MASK" value="*impex" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -13,7 +13,6 @@
     <mask>*.impex</mask>
     <mask>*.properties</mask>
     <mask>*response*populator*</mask>
-    <mask>*impex</mask>
     <mask>*n.java</mask>
     <mask>*xml</mask>
     <mask>*test.java</mask>
@@ -21,5 +20,6 @@
     <mask>*items.xml</mask>
     <mask>*duni*java</mask>
     <mask>*java,*class</mask>
+    <mask>*impex</mask>
   </component>
 </application>
