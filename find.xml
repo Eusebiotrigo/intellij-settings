@@ -3,22 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
-    <mask>*.html</mask>
-    <mask>*.xml</mask>
-    <mask>*.jsp</mask>
-    <mask>*.java</mask>
-    <mask>*.gradle</mask>
-    <mask>*.impex</mask>
-    <mask>*.properties</mask>
-    <mask>*response*populator*</mask>
-    <mask>*n.java</mask>
-    <mask>*xml</mask>
-    <mask>*test.java</mask>
-    <mask>*duni*java</mask>
-    <mask>*java,*class</mask>
-    <mask>*properties</mask>
-    <mask>*items.xml</mask>
-    <mask>*impex</mask>
   </component>
 </application>
