@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -14,5 +12,6 @@
     <mask>*.impex</mask>
     <mask>*-items.xml</mask>
     <mask>*.feature</mask>
+    <mask>*.js</mask>
   </component>
 </application>
