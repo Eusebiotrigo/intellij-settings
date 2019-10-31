@@ -11,8 +11,8 @@
     <mask>*-items.xml</mask>
     <mask>*.feature</mask>
     <mask>*.js</mask>
-    <mask>*.impex</mask>
     <mask>*.java</mask>
     <mask>*backoffice-config.xml</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
