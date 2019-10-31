@@ -4,7 +4,8 @@
   <option name="WRAP_ON_TYPING" value="0" />
   <ImpexCodeStyleSettings>
     <option name="SPACE_AFTER_FIELD_VALUE_SEPARATOR" value="false" />
-    <option name="TABLIFY" value="false" />
+    <option name="SPACE_BEFORE_FIELD_VALUE_SEPARATOR" value="false" />
+    <option name="SPACE_AFTER_PARAMETERS_SEPARATOR" value="false" />
   </ImpexCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="GENERATE_FINAL_LOCALS" value="true" />
