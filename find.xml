@@ -5,7 +5,6 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*tag,*jsp" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -15,11 +14,11 @@
     <mask>*java</mask>
     <mask>*.impex</mask>
     <mask>*spring.xml</mask>
-    <mask>*items.xml</mask>
     <mask>*controller.java</mask>
-    <mask>*xml</mask>
     <mask>*properties</mask>
     <mask>*impex</mask>
     <mask>*tag,*jsp</mask>
+    <mask>*xml</mask>
+    <mask>*items.xml</mask>
   </component>
 </application>
