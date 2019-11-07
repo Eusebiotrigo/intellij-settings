@@ -3,6 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.properties</mask>
@@ -10,12 +11,12 @@
     <mask>*.feature</mask>
     <mask>*.js</mask>
     <mask>*backoffice-config.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.tag</mask>
     <mask>*.impex</mask>
     <mask>*beans.xml</mask>
     <mask>*items.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
