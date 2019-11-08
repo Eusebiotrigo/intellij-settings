@@ -19,5 +19,6 @@
     <mask>*duni*</mask>
     <mask>*.impex</mask>
     <mask>*duni*.impex</mask>
+    <mask>*spring.xml</mask>
   </component>
 </application>
