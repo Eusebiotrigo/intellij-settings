@@ -4,6 +4,7 @@
       <set>
         <option value="squid:S1612" />
         <option value="squid:S2068" />
+        <option value="squid:UnusedPrivateMethod" />
       </set>
     </option>
     <option name="sonarQubeServers">

@@ -2,23 +2,24 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
+    <mask>*-items.xml</mask>
+    <mask>*.feature</mask>
+    <mask>*.js</mask>
+    <mask>*backoffice-config.xml</mask>
     <mask>*.jsp</mask>
-    <mask>*.properties</mask>
+    <mask>*.tag</mask>
+    <mask>*beans.xml</mask>
     <mask>*.java</mask>
-    <mask>*java</mask>
+    <mask>*duni*</mask>
     <mask>*.impex</mask>
+    <mask>*duni*.impex</mask>
     <mask>*spring.xml</mask>
-    <mask>*properties</mask>
-    <mask>*impex</mask>
-    <mask>*tag,*jsp</mask>
     <mask>*items.xml</mask>
-    <mask>*controller.java</mask>
-    <mask>*xml</mask>
+    <mask>*impex</mask>
+    <mask>*.properties</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
