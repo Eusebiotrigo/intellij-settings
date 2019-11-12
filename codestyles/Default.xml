@@ -4,7 +4,8 @@
   <option name="WRAP_ON_TYPING" value="0" />
   <ImpexCodeStyleSettings>
     <option name="SPACE_AFTER_FIELD_VALUE_SEPARATOR" value="false" />
-    <option name="TABLIFY" value="false" />
+    <option name="SPACE_BEFORE_FIELD_VALUE_SEPARATOR" value="false" />
+    <option name="SPACE_AFTER_PARAMETERS_SEPARATOR" value="false" />
   </ImpexCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="GENERATE_FINAL_LOCALS" value="true" />
@@ -21,11 +22,6 @@
   <codeStyleSettings language="ECMA Script Level 4">
     <indentOptions>
       <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="JavaScript">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Properties">
