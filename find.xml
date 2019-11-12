@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*-items.xml</mask>
@@ -14,7 +13,6 @@
     <mask>*.tag</mask>
     <mask>*beans.xml</mask>
     <mask>*duni*</mask>
-    <mask>*.impex</mask>
     <mask>*duni*.impex</mask>
     <mask>*spring.xml</mask>
     <mask>*items.xml</mask>
@@ -24,5 +22,6 @@
     <mask>*controller.java</mask>
     <mask>*Test.java</mask>
     <mask>*.java</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
