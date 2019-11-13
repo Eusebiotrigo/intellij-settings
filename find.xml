@@ -3,25 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
-    <mask>*.css</mask>
-    <mask>*.html</mask>
-    <mask>*-items.xml</mask>
-    <mask>*.js</mask>
-    <mask>*backoffice-config.xml</mask>
-    <mask>*.jsp</mask>
-    <mask>*.tag</mask>
-    <mask>*beans.xml</mask>
-    <mask>*duni*</mask>
-    <mask>*duni*.impex</mask>
-    <mask>*spring.xml</mask>
-    <mask>*items.xml</mask>
-    <mask>*impex</mask>
-    <mask>*.properties</mask>
-    <mask>*.json, *.properties</mask>
-    <mask>*.xml</mask>
-    <mask>*.impex</mask>
-    <mask>*.feature</mask>
-    <mask>*.java</mask>
   </component>
 </application>
