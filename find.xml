@@ -2,14 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.impex" />
+    <option name="FILE_MASK" value="*.feature" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*-items.xml</mask>
-    <mask>*.feature</mask>
     <mask>*.js</mask>
     <mask>*backoffice-config.xml</mask>
     <mask>*.jsp</mask>
@@ -25,5 +22,6 @@
     <mask>*.json, *.properties</mask>
     <mask>*.xml</mask>
     <mask>*.impex</mask>
+    <mask>*.feature</mask>
   </component>
 </application>
