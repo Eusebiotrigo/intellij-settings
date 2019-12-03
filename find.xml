@@ -8,8 +8,9 @@
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
+    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*Context*.java</mask>
-    <mask>*.java</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
