@@ -6,12 +6,8 @@
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
-    <mask>*Context*.java</mask>
-    <mask>*.impex</mask>
-    <mask>*.feature</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
