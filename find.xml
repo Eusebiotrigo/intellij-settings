@@ -7,14 +7,14 @@
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
-    <mask>*.properties</mask>
     <mask>*.js</mask>
     <mask>*Context*.java</mask>
     <mask>*.impex</mask>
     <mask>*.feature</mask>
     <mask>*Validator.java</mask>
-    <mask>*.java</mask>
     <mask>*spring.xml</mask>
     <mask>*Controller.java</mask>
+    <mask>*.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
