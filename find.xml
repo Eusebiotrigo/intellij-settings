@@ -19,5 +19,6 @@
     <mask>*.jsp,*.tag</mask>
     <mask>!*.java</mask>
     <mask>*.java</mask>
+    <mask>*</mask>
   </component>
 </application>
