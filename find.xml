@@ -1,15 +1,15 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="[y] Custom" />
+    <option name="defaultScopeName" value="[y] Custom" />
+    <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.impex" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*Context*.java</mask>
-    <mask>*.impex</mask>
     <mask>*.feature</mask>
     <mask>*Validator.java</mask>
     <mask>*spring.xml</mask>
@@ -20,5 +20,6 @@
     <mask>!*.java</mask>
     <mask>*.java</mask>
     <mask>*</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
