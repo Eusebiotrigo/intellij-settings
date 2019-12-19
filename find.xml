@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*Context*.java</mask>
@@ -20,5 +19,6 @@
     <mask>!*.java</mask>
     <mask>*.java</mask>
     <mask>*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
