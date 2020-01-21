@@ -1,26 +1,30 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="customScope" value="[y] Custom" />
+    <option name="defaultScopeName" value="[y] Custom" />
+    <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*Context*.java</mask>
-    <mask>*.impex</mask>
     <mask>*.feature</mask>
     <mask>*Validator.java</mask>
-    <mask>*spring.xml</mask>
     <mask>*Controller.java</mask>
     <mask>*test.java</mask>
     <mask>*.jsp,*.tag</mask>
     <mask>!*.java</mask>
-    <mask>*.java</mask>
-    <mask>*</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.impex</mask>
+    <mask>*.xml</mask>
+    <mask>*Test.java</mask>
+    <mask>*.java</mask>
+    <mask>*impex</mask>
+    <mask>*properties</mask>
+    <mask>*</mask>
+    <mask>*spring.xml</mask>
+    <mask>*java</mask>
     <mask>*.properties</mask>
   </component>
 </application>
