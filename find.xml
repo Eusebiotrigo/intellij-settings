@@ -12,7 +12,6 @@
     <mask>*Context*.java</mask>
     <mask>*.feature</mask>
     <mask>*Validator.java</mask>
-    <mask>*Controller.java</mask>
     <mask>*test.java</mask>
     <mask>*.jsp,*.tag</mask>
     <mask>!*.java</mask>
@@ -29,5 +28,8 @@
     <mask>*.xml</mask>
     <mask>*.impex</mask>
     <mask>*.gradle</mask>
+    <mask>*Controller.java</mask>
+    <mask>*xml</mask>
+    <mask>*items.xml</mask>
   </component>
 </application>
