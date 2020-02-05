@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="[y] Custom" />
-    <option name="defaultScopeName" value="[y] Custom" />
-    <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,7 +15,6 @@
     <mask>*.jsp,*.tag</mask>
     <mask>!*.java</mask>
     <mask>*.properties</mask>
-    <mask>*Test.java</mask>
     <mask>*impex</mask>
     <mask>*properties</mask>
     <mask>*</mask>
@@ -31,5 +31,6 @@
     <mask>**java</mask>
     <mask>*.impex</mask>
     <mask>*.java</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
