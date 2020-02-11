@@ -10,10 +10,26 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="EditorCopy">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581450615242" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorUp">
           <value>
             <ActionSummary>
               <option name="last" value="1581115067319" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Find">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581365669078" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -29,8 +45,8 @@
         <entry key="GotoImplementation">
           <value>
             <ActionSummary>
-              <option name="last" value="1581115248994" />
-              <option name="times" value="1" />
+              <option name="last" value="1581365666174" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -63,6 +79,22 @@
             <ActionSummary>
               <option name="last" value="1581115292079" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.find.SearchReplaceComponent$11">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581365674623" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581365670687" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
