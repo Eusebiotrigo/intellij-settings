@@ -2,6 +2,14 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="CopyReference">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581529619678" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
@@ -13,8 +21,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581450615242" />
-              <option name="times" value="3" />
+              <option name="last" value="1581529607790" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -29,8 +37,8 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1581365669078" />
-              <option name="times" value="1" />
+              <option name="last" value="1581529552060" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -42,19 +50,27 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="GotoDeclaration">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581529565404" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581115182296" />
-              <option name="times" value="1" />
+              <option name="last" value="1581529548988" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoImplementation">
           <value>
             <ActionSummary>
-              <option name="last" value="1581365666174" />
-              <option name="times" value="2" />
+              <option name="last" value="1581529598905" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -82,6 +98,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="WelcomeScreen.Update">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581516715071" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.diagnostic.IdeErrorsDialog$ForwardAction">
           <value>
             <ActionSummary>
@@ -93,8 +117,8 @@
         <entry key="com.intellij.find.SearchReplaceComponent$11">
           <value>
             <ActionSummary>
-              <option name="last" value="1581365674623" />
-              <option name="times" value="1" />
+              <option name="last" value="1581529559476" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -109,8 +133,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581516504289" />
-              <option name="times" value="2" />
+              <option name="last" value="1581529511384" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -133,8 +157,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581516640936" />
-              <option name="times" value="4" />
+              <option name="last" value="1581529550553" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -165,16 +189,16 @@
         <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$5">
           <value>
             <ActionSummary>
-              <option name="last" value="1581115310695" />
-              <option name="times" value="2" />
+              <option name="last" value="1581516713670" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581115190581" />
-              <option name="times" value="2" />
+              <option name="last" value="1581529539758" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
