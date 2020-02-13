@@ -197,16 +197,16 @@
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581608551451" />
-              <option name="times" value="3" />
+              <option name="last" value="1581608732437" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.wm.impl.ProjectWindowAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581114967372" />
-              <option name="times" value="2" />
+              <option name="last" value="1581608714925" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
