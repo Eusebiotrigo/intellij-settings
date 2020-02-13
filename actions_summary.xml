@@ -37,8 +37,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581608902808" />
-              <option name="times" value="6" />
+              <option name="last" value="1581618593040" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -54,6 +54,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581609114281" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorRightWithSelection">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581618544316" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -85,8 +93,8 @@
         <entry key="FindUsages">
           <value>
             <ActionSummary>
-              <option name="last" value="1581609632556" />
-              <option name="times" value="4" />
+              <option name="last" value="1581618523784" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -173,8 +181,8 @@
         <entry key="com.intellij.diagnostic.IdeErrorsDialog$ForwardAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581529674103" />
-              <option name="times" value="4" />
+              <option name="last" value="1581609672864" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -197,8 +205,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581608525750" />
-              <option name="times" value="5" />
+              <option name="last" value="1581618464140" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
