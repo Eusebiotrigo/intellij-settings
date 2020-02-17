@@ -18,6 +18,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="CheckForUpdate">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581955237736" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="CopyReference">
           <value>
             <ActionSummary>
@@ -109,8 +117,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581954378552" />
-              <option name="times" value="12" />
+              <option name="last" value="1581955279004" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
@@ -125,8 +133,8 @@
         <entry key="GotoImplementation">
           <value>
             <ActionSummary>
-              <option name="last" value="1581698217588" />
-              <option name="times" value="15" />
+              <option name="last" value="1581955304470" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
@@ -226,6 +234,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.notification.EventLogConsole$ClearLogAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581955255126" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
@@ -237,8 +253,8 @@
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581608920012" />
-              <option name="times" value="6" />
+              <option name="last" value="1581955242200" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
