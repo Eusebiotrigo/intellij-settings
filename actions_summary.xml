@@ -18,6 +18,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="CheckForUpdate">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581955237736" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="CopyReference">
           <value>
             <ActionSummary>
@@ -109,24 +117,24 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581698186353" />
-              <option name="times" value="10" />
+              <option name="last" value="1581955279004" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581698084073" />
-              <option name="times" value="13" />
+              <option name="last" value="1581954698044" />
+              <option name="times" value="15" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoImplementation">
           <value>
             <ActionSummary>
-              <option name="last" value="1581698217588" />
-              <option name="times" value="15" />
+              <option name="last" value="1581955304470" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
@@ -173,8 +181,8 @@
         <entry key="WelcomeScreen.Update">
           <value>
             <ActionSummary>
-              <option name="last" value="1581698591129" />
-              <option name="times" value="2" />
+              <option name="last" value="1581955563438" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -205,8 +213,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581698037455" />
-              <option name="times" value="7" />
+              <option name="last" value="1581954229347" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -221,24 +229,32 @@
         <entry key="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581698054264" />
-              <option name="times" value="4" />
+              <option name="last" value="1581954383278" />
+              <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.notification.EventLogConsole$ClearLogAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581955255126" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581698151883" />
-              <option name="times" value="19" />
+              <option name="last" value="1581954253208" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581608920012" />
-              <option name="times" value="6" />
+              <option name="last" value="1581955242200" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -253,24 +269,24 @@
         <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$4">
           <value>
             <ActionSummary>
-              <option name="last" value="1581115308512" />
-              <option name="times" value="3" />
+              <option name="last" value="1581955560363" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$5">
           <value>
             <ActionSummary>
-              <option name="last" value="1581698589349" />
-              <option name="times" value="4" />
+              <option name="last" value="1581955561876" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581609438846" />
-              <option name="times" value="8" />
+              <option name="last" value="1581954249402" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
