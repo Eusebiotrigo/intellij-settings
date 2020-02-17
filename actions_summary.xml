@@ -181,8 +181,8 @@
         <entry key="WelcomeScreen.Update">
           <value>
             <ActionSummary>
-              <option name="last" value="1581955539960" />
-              <option name="times" value="4" />
+              <option name="last" value="1581955563438" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -269,16 +269,16 @@
         <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$4">
           <value>
             <ActionSummary>
-              <option name="last" value="1581933081849" />
-              <option name="times" value="5" />
+              <option name="last" value="1581955560363" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$5">
           <value>
             <ActionSummary>
-              <option name="last" value="1581955538323" />
-              <option name="times" value="6" />
+              <option name="last" value="1581955561876" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
