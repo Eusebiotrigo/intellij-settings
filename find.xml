@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
-    <mask>*.html</mask>
+    <option name="FILE_MASK" value="*.rb" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*Context*.java</mask>
@@ -15,7 +14,6 @@
     <mask>!*.java</mask>
     <mask>*.properties</mask>
     <mask>*impex</mask>
-    <mask>*</mask>
     <mask>*spring.xml</mask>
     <mask>*.properties</mask>
     <mask>*-items.xml</mask>
@@ -33,5 +31,8 @@
     <mask>*Test.java</mask>
     <mask>*properties</mask>
     <mask>*xml</mask>
+    <mask>*feature</mask>
+    <mask>*</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
