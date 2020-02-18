@@ -2,10 +2,42 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="$Copy">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582041272102" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="$Paste">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582041273294" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="$SelectAll">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582041285388" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581609416490" />
+              <option name="last" value="1582041344867" />
+              <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Annotate">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582041207475" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -26,6 +58,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="CompareTwoFiles">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582041307535" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="CopyReference">
           <value>
             <ActionSummary>
@@ -37,16 +77,16 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581698143223" />
-              <option name="times" value="37" />
+              <option name="last" value="1582041338432" />
+              <option name="times" value="41" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581698221626" />
-              <option name="times" value="11" />
+              <option name="last" value="1582041282657" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -62,6 +102,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581609114281" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorPaste">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582041285984" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -213,8 +261,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581954229347" />
-              <option name="times" value="8" />
+              <option name="last" value="1581956182301" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -239,6 +287,14 @@
             <ActionSummary>
               <option name="last" value="1581955255126" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582041210831" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
