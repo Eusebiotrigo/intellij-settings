@@ -1,9 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="DUNI-3291-01-changing-scpi-endpoints-for-mocking-responses" type="Impex file" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="duni_miniCartComponent" type="TypeScript" />
     </extensionMap>
   </component>
