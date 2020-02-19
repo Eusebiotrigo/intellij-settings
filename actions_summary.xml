@@ -2,10 +2,42 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="$Copy">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582041272102" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="$Paste">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582041273294" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="$SelectAll">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582041285388" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581609416490" />
+              <option name="last" value="1582041344867" />
+              <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Annotate">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582041207475" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -26,6 +58,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="CompareTwoFiles">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582041307535" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="CopyReference">
           <value>
             <ActionSummary>
@@ -37,16 +77,16 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581698143223" />
-              <option name="times" value="37" />
+              <option name="last" value="1582041338432" />
+              <option name="times" value="41" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581698221626" />
-              <option name="times" value="11" />
+              <option name="last" value="1582041282657" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -62,6 +102,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581609114281" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorPaste">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582041285984" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -173,24 +221,24 @@
         <entry key="WelcomeScreen.Settings">
           <value>
             <ActionSummary>
-              <option name="last" value="1581115312898" />
-              <option name="times" value="1" />
+              <option name="last" value="1582106079273" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="WelcomeScreen.Update">
           <value>
             <ActionSummary>
-              <option name="last" value="1581955563438" />
-              <option name="times" value="5" />
+              <option name="last" value="1582042826983" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.diagnostic.IdeErrorsDialog$ForwardAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581609672864" />
-              <option name="times" value="8" />
+              <option name="last" value="1582042819353" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
@@ -213,8 +261,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581954229347" />
-              <option name="times" value="8" />
+              <option name="last" value="1582106086847" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
@@ -242,11 +290,27 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582041210831" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
               <option name="last" value="1581954253208" />
               <option name="times" value="20" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582106083356" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -269,16 +333,16 @@
         <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$4">
           <value>
             <ActionSummary>
-              <option name="last" value="1581955560363" />
-              <option name="times" value="6" />
+              <option name="last" value="1582042824015" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$5">
           <value>
             <ActionSummary>
-              <option name="last" value="1581955561876" />
-              <option name="times" value="7" />
+              <option name="last" value="1582106074045" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
