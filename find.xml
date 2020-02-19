@@ -3,7 +3,7 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*rb" />
+    <option name="FILE_MASK" value="*java" />
     <mask>*Context*.java</mask>
     <mask>*Validator.java</mask>
     <mask>*test.java</mask>
@@ -22,7 +22,6 @@
     <mask>**java</mask>
     <mask>*Controller*java</mask>
     <mask>*gradle</mask>
-    <mask>*java</mask>
     <mask>*.impex</mask>
     <mask>*.java</mask>
     <mask>*Test.java</mask>
@@ -34,5 +33,6 @@
     <mask>*yml</mask>
     <mask>*feature</mask>
     <mask>*rb</mask>
+    <mask>*java</mask>
   </component>
 </application>
