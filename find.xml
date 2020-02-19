@@ -3,14 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*rb" />
+    <option name="FILE_MASK" value="*impex" />
     <mask>*Context*.java</mask>
     <mask>*Validator.java</mask>
     <mask>*test.java</mask>
     <mask>*.jsp,*.tag</mask>
     <mask>!*.java</mask>
     <mask>*.properties</mask>
-    <mask>*impex</mask>
     <mask>*spring.xml</mask>
     <mask>*.properties</mask>
     <mask>*-items.xml</mask>
@@ -31,8 +30,9 @@
     <mask>*.rb</mask>
     <mask>*.feature</mask>
     <mask>*yml</mask>
-    <mask>*feature</mask>
     <mask>*java</mask>
     <mask>*rb</mask>
+    <mask>*feature</mask>
+    <mask>*impex</mask>
   </component>
 </application>
