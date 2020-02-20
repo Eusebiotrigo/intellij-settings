@@ -1,15 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="customScope" value="[y] Custom" />
+    <option name="defaultScopeName" value="[y] Custom" />
+    <option name="SEARCH_SCOPE" value="[y] Custom" />
     <mask>*Context*.java</mask>
     <mask>*Validator.java</mask>
     <mask>*test.java</mask>
     <mask>*.jsp,*.tag</mask>
     <mask>!*.java</mask>
     <mask>*.properties</mask>
-    <mask>*impex</mask>
     <mask>*spring.xml</mask>
     <mask>*.properties</mask>
     <mask>*-items.xml</mask>
@@ -30,8 +29,9 @@
     <mask>*.rb</mask>
     <mask>*.feature</mask>
     <mask>*yml</mask>
-    <mask>*feature</mask>
+    <mask>*java</mask>
     <mask>*rb</mask>
-    <mask>*.impex</mask>
+    <mask>*feature</mask>
+    <mask>*impex</mask>
   </component>
 </application>
