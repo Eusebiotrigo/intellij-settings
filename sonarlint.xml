@@ -15,6 +15,13 @@
           <option name="name" value="e2y AWS SonarQube" />
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df9edfc9df9edfcfdf9bdfcfdfc8dfcbdfcbdf9fdf99df9bdfccdfcbdfcedf93df9cdfc8df9ddf9adfcbdf9adf98dfcedf9adf9cdfcedf9fdfcbdfc9df9cdfcedfcbdf9cdfc8df9bdfccdfcedfc8dfc9</token>
+          <option name="name" value="SonarCloud - e2y" />
+          <organizationKey>e2y</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
       </list>
     </option>
   </component>
