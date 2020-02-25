@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*rb" />
+    <option name="FILE_MASK" value="*gradle" />
     <mask>*Context*.java</mask>
     <mask>*Validator.java</mask>
     <mask>*test.java</mask>
@@ -20,7 +20,6 @@
     <mask>*facade*java</mask>
     <mask>**java</mask>
     <mask>*Controller*java</mask>
-    <mask>*gradle</mask>
     <mask>*.java</mask>
     <mask>*Test.java</mask>
     <mask>*properties</mask>
@@ -34,5 +33,6 @@
     <mask>*xml</mask>
     <mask>*feature</mask>
     <mask>*rb</mask>
+    <mask>*gradle</mask>
   </component>
 </application>
