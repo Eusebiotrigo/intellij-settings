@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*feature" />
+    <option name="FILE_MASK" value="*rb" />
     <mask>*Context*.java</mask>
     <mask>*Validator.java</mask>
     <mask>*test.java</mask>
@@ -32,7 +32,7 @@
     <mask>*java</mask>
     <mask>*java</mask>
     <mask>*xml</mask>
-    <mask>*rb</mask>
     <mask>*feature</mask>
+    <mask>*rb</mask>
   </component>
 </application>
