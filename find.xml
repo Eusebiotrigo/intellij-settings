@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*-items.xml" />
     <mask>*Context*.java</mask>
     <mask>*Validator.java</mask>
     <mask>*test.java</mask>
@@ -12,7 +11,6 @@
     <mask>!*.java</mask>
     <mask>*spring.xml</mask>
     <mask>*.properties</mask>
-    <mask>*-items.xml</mask>
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*Controller.java</mask>
@@ -35,5 +33,6 @@
     <mask>*xml</mask>
     <mask>*rb</mask>
     <mask>*.properties</mask>
+    <mask>*-items.xml</mask>
   </component>
 </application>
