@@ -4,6 +4,10 @@
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
     <mask>*Context*.java</mask>
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*" />
     <mask>*Validator.java</mask>
     <mask>*test.java</mask>
     <mask>*.jsp,*.tag</mask>
@@ -13,25 +17,24 @@
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*Controller.java</mask>
-    <mask>*items.xml</mask>
     <mask>*facade*java</mask>
     <mask>**java</mask>
     <mask>*Controller*java</mask>
-    <mask>*gradle</mask>
     <mask>*.java</mask>
     <mask>*Test.java</mask>
     <mask>*properties</mask>
-    <mask>*</mask>
     <mask>*.rb</mask>
     <mask>*.feature</mask>
     <mask>*yml</mask>
-    <mask>*feature</mask>
     <mask>*impex</mask>
-    <mask>*java</mask>
     <mask>*java</mask>
     <mask>*xml</mask>
     <mask>*rb</mask>
-    <mask>*.properties</mask>
-    <mask>*-items.xml</mask>
+    <mask>*gradle</mask>
+    <mask>*feature</mask>
+    <mask>*controller.java</mask>
+    <mask>*items.xml</mask>
+    <mask>*java</mask>
+    <mask>*</mask>
   </component>
 </application>
