@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*service*java" />
+    <option name="FILE_MASK" value="*feature" />
     <mask>!*.java</mask>
     <mask>*.properties</mask>
     <mask>*spring.xml</mask>
@@ -24,7 +24,6 @@
     <mask>*java</mask>
     <mask>*rb</mask>
     <mask>*gradle</mask>
-    <mask>*feature</mask>
     <mask>*controller.java</mask>
     <mask>*items.xml</mask>
     <mask>*java</mask>
@@ -34,5 +33,6 @@
     <mask>*model*java</mask>
     <mask>*controller*java</mask>
     <mask>*service*java</mask>
+    <mask>*feature</mask>
   </component>
 </application>
