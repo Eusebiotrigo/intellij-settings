@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="jenkinsfile-daily" type="Groovy" />
       <mapping pattern="jenkinsfile-sprintly" type="Groovy" />
       <mapping pattern="jenkinsfile-tint" type="Groovy" />
+      <mapping pattern="jenkinsfile-daily" type="Groovy" />
       <mapping pattern="DUNI-3291-01-changing-scpi-endpoints-for-mocking-responses" type="Impex file" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="duni_miniCartComponent" type="TypeScript" />
