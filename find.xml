@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*items.xml" />
+    <option name="FILE_MASK" value="*impex" />
     <mask>*Context*.java</mask>
     <mask>*Validator.java</mask>
     <mask>*test.java</mask>
@@ -25,7 +25,6 @@
     <mask>*.rb</mask>
     <mask>*.feature</mask>
     <mask>*yml</mask>
-    <mask>*impex</mask>
     <mask>*java</mask>
     <mask>*xml</mask>
     <mask>*rb</mask>
@@ -36,5 +35,6 @@
     <mask>*</mask>
     <mask>*.impex</mask>
     <mask>*items.xml</mask>
+    <mask>*impex</mask>
   </component>
 </application>
