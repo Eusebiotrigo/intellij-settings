@@ -2,9 +2,7 @@
   <component name="HybrisApplicationSettings">
     <option name="allowSendingStatistics" value="false" />
     <option name="configPropertyFolding" value="Full" />
-    <option name="headerFolding" value="Smart" />
-    <option name="lastPluginVersionReleaseNotesShownToUser" value="2019.3.8.5" />
-    <option name="lineFolding" value="Enabled" />
+    <option name="lastPluginVersionReleaseNotesShownToUser" value="2020.1.2" />
     <option name="localMacroFolding" value="Full" />
     <option name="suspendPluginUpdateForVersion" value="2019.3.8.5" />
   </component>
