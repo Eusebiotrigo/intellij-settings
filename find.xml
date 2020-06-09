@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="[y] Custom" />
-    <option name="defaultScopeName" value="[y] Custom" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*java" />
     <mask>*Context*.java</mask>
     <mask>*Validator.java</mask>
@@ -30,13 +30,13 @@
     <mask>*gradle</mask>
     <mask>*feature</mask>
     <mask>*controller.java</mask>
-    <mask>*java</mask>
     <mask>*</mask>
     <mask>*.impex</mask>
     <mask>*items.xml</mask>
     <mask>*properties</mask>
     <mask>*xml</mask>
     <mask>*impex</mask>
+    <mask>*java</mask>
     <mask>*java</mask>
   </component>
 </application>
