@@ -1,12 +1,5 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="excludedRules">
-      <set>
-        <option value="squid:S1612" />
-        <option value="squid:S2068" />
-        <option value="squid:UnusedPrivateMethod" />
-      </set>
-    </option>
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
@@ -24,5 +17,10 @@
         </SonarQubeServer>
       </list>
     </option>
+    <rules>
+      <Rule active="false" key="squid:S2068" />
+      <Rule active="false" key="squid:S1612" />
+      <Rule active="false" key="squid:UnusedPrivateMethod" />
+    </rules>
   </component>
 </application>
