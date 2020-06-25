@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*items.xml" />
     <mask>*Context*.java</mask>
     <mask>*Validator.java</mask>
     <mask>*.jsp,*.tag</mask>
@@ -30,12 +31,12 @@
     <mask>*controller.java</mask>
     <mask>*</mask>
     <mask>*.impex</mask>
-    <mask>*items.xml</mask>
     <mask>*properties</mask>
     <mask>*xml</mask>
     <mask>*impex</mask>
     <mask>*java</mask>
     <mask>*java</mask>
     <mask>*test.java</mask>
+    <mask>*items.xml</mask>
   </component>
 </application>
