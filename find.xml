@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="[y] Custom" />
-    <option name="defaultScopeName" value="[y] Custom" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*items.xml" />
     <mask>*.jsp,*.tag</mask>
     <mask>!*.java</mask>
     <mask>*spring.xml</mask>
@@ -30,10 +31,10 @@
     <mask>*java</mask>
     <mask>*java</mask>
     <mask>*test.java</mask>
-    <mask>*impex</mask>
-    <mask>*items.xml</mask>
     <mask>*jsp</mask>
     <mask>*xml</mask>
     <mask>*.js</mask>
+    <mask>*impex</mask>
+    <mask>*items.xml</mask>
   </component>
 </application>
