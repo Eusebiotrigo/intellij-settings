@@ -33,7 +33,7 @@
     <mask>*jsp</mask>
     <mask>*xml</mask>
     <mask>*.js</mask>
-    <mask>*items.xml</mask>
     <mask>*impex</mask>
+    <mask>*items.xml</mask>
   </component>
 </application>
