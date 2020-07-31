@@ -2,12 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.jsp,*.tag</mask>
+    <mask>!*.java</mask>
     <mask>*spring.xml</mask>
     <mask>*.properties</mask>
-    <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*Controller.java</mask>
     <mask>*facade*java</mask>
@@ -21,19 +20,18 @@
     <mask>*rb</mask>
     <mask>*gradle</mask>
     <mask>*feature</mask>
+    <mask>*controller.java</mask>
     <mask>*</mask>
     <mask>*.impex</mask>
     <mask>*properties</mask>
     <mask>*java</mask>
-    <mask>*test.java</mask>
-    <mask>*jsp</mask>
-    <mask>*.js</mask>
-    <mask>*items.xml</mask>
-    <mask>*JAVA</mask>
     <mask>*java</mask>
-    <mask>*controller.java</mask>
-    <mask>*js</mask>
+    <mask>*test.java</mask>
     <mask>*impex</mask>
+    <mask>*items.xml</mask>
+    <mask>*jsp</mask>
     <mask>*xml</mask>
+    <mask>*.js</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
