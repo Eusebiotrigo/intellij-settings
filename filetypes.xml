@@ -10,6 +10,7 @@
       <mapping pattern="jenkinsfile-sprintly" type="Groovy" />
       <mapping pattern="jenkinsfile-post-merge" type="Groovy" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="unique_product_ean.feature" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="duni_miniCartComponent" type="TypeScript" />
       <mapping pattern="DUNI-3291-01-changing-scpi-endpoints-for-mocking-responses" type="Impex file" />
