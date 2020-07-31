@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*impex" />
+    <option name="FILE_MASK" value="*xml" />
     <mask>*spring.xml</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
@@ -32,9 +32,9 @@
     <mask>*items.xml</mask>
     <mask>*JAVA</mask>
     <mask>*java</mask>
-    <mask>*xml</mask>
     <mask>*controller.java</mask>
     <mask>*js</mask>
     <mask>*impex</mask>
+    <mask>*xml</mask>
   </component>
 </application>
