@@ -3,12 +3,6 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="https://sonar.aws.e2y.io/" />
-          <token>dfccdfccdf9fdf9bdfc8df9edf9adf9bdf9cdf9edfcedfc9df93dfcedfcbdf9bdf98df9fdfcedf9bdfc9df99df98df9ddfcbdf9adf9edfcedf9edf9fdf93df9edfcfdf9edf9edfcbdf9edfc9df9fdfcc</token>
-          <option name="name" value="e2y AWS SonarQube" />
-          <organizationKey>default-organization</organizationKey>
-        </SonarQubeServer>
-        <SonarQubeServer>
           <option name="hostUrl" value="https://sonarcloud.io" />
           <token>df9edfc9df9edfcfdf9bdfcfdfc8dfcbdfcbdf9fdf99df9bdfccdfcbdfcedf93df9cdfc8df9ddf9adfcbdf9adf98dfcedf9adf9cdfcedf9fdfcbdfc9df9cdfcedfcbdf9cdfc8df9bdfccdfcedfc8dfc9</token>
           <option name="name" value="SonarCloud - e2y" />
@@ -18,9 +12,7 @@
       </list>
     </option>
     <rules>
-      <Rule active="false" key="squid:S2068" />
-      <Rule active="false" key="squid:S1612" />
-      <Rule active="false" key="squid:UnusedPrivateMethod" />
+      <Rule active="false" key="java:S1144" />
     </rules>
   </component>
 </application>
