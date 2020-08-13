@@ -3,6 +3,7 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*impex" />
     <mask>*.jsp,*.tag</mask>
     <mask>!*.java</mask>
     <mask>*spring.xml</mask>
@@ -27,11 +28,11 @@
     <mask>*java</mask>
     <mask>*java</mask>
     <mask>*test.java</mask>
-    <mask>*impex</mask>
     <mask>*items.xml</mask>
     <mask>*jsp</mask>
     <mask>*xml</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*impex</mask>
   </component>
 </application>
