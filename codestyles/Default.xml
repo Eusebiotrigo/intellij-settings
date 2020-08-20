@@ -7,6 +7,8 @@
     <option name="SPACE_BEFORE_PARAMETERS_SEPARATOR" value="true" />
   </ImpexCodeStyleSettings>
   <JavaCodeStyleSettings>
+    <option name="SUBCLASS_NAME_PREFIX" value="Default" />
+    <option name="SUBCLASS_NAME_SUFFIX" value="" />
     <option name="GENERATE_FINAL_LOCALS" value="true" />
     <option name="GENERATE_FINAL_PARAMETERS" value="true" />
     <option name="REPLACE_INSTANCEOF_AND_CAST" value="true" />
@@ -25,8 +27,5 @@
   </codeStyleSettings>
   <codeStyleSettings language="Properties">
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
-  </codeStyleSettings>
-  <codeStyleSettings language="ruby">
-    <option name="INDENT_WHEN_CASES" value="false" />
   </codeStyleSettings>
 </code_scheme>
