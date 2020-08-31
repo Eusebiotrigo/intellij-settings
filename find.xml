@@ -24,14 +24,14 @@
     <mask>*</mask>
     <mask>*.impex</mask>
     <mask>*properties</mask>
-    <mask>*java</mask>
-    <mask>*java</mask>
     <mask>*test.java</mask>
-    <mask>*impex</mask>
     <mask>*items.xml</mask>
     <mask>*jsp</mask>
     <mask>*xml</mask>
+    <mask>*impex</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*java</mask>
+    <mask>*java</mask>
   </component>
 </application>
