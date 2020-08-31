@@ -3,7 +3,7 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="Manor*java" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>!*.java</mask>
     <mask>*spring.xml</mask>
     <mask>*.properties</mask>
@@ -12,7 +12,6 @@
     <mask>*facade*java</mask>
     <mask>**java</mask>
     <mask>*Controller*java</mask>
-    <mask>*.java</mask>
     <mask>*Test.java</mask>
     <mask>*.rb</mask>
     <mask>*.feature</mask>
@@ -34,5 +33,6 @@
     <mask>*java</mask>
     <mask>*java</mask>
     <mask>Manor*java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
