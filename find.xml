@@ -12,7 +12,6 @@
     <mask>*facade*java</mask>
     <mask>**java</mask>
     <mask>*Controller*java</mask>
-    <mask>*Test.java</mask>
     <mask>*.rb</mask>
     <mask>*.feature</mask>
     <mask>*yml</mask>
@@ -35,5 +34,6 @@
     <mask>Manor*.java</mask>
     <mask>*impex</mask>
     <mask>*.java</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
