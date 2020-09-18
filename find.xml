@@ -3,14 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*spring.xml</mask>
-    <mask>*.properties</mask>
     <mask>*.gradle</mask>
     <mask>*Controller.java</mask>
     <mask>*facade*java</mask>
     <mask>**java</mask>
     <mask>*Controller*java</mask>
-    <mask>*Test.java</mask>
     <mask>*.rb</mask>
     <mask>*.feature</mask>
     <mask>*yml</mask>
@@ -33,5 +30,8 @@
     <mask>Manor*.java</mask>
     <mask>*impex</mask>
     <mask>*.java</mask>
+    <mask>*.tag</mask>
+    <mask>*Test.java</mask>
+    <mask>*Facade*</mask>
   </component>
 </application>
