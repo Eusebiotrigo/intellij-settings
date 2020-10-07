@@ -3,11 +3,11 @@
     <extensionMap>
       <mapping pattern="jenkinsfile-distribution" type="Groovy" />
       <mapping pattern="jenkinsfile-uat" type="Groovy" />
+      <mapping pattern="jenkinsfile-automation" type="Groovy" />
+      <mapping pattern="jenkinsfile-sprintly" type="Groovy" />
       <mapping pattern="jenkinsfile-tint" type="Groovy" />
       <mapping pattern="jenkinsfile-daily" type="Groovy" />
-      <mapping pattern="jenkinsfile-automation" type="Groovy" />
       <mapping pattern="jenkinsfile-release" type="Groovy" />
-      <mapping pattern="jenkinsfile-sprintly" type="Groovy" />
       <mapping pattern="jenkinsfile-post-merge" type="Groovy" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="duni_miniCartComponent" type="TypeScript" />
