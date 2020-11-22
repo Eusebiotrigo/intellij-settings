@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.impex" />
     <mask>*.gradle</mask>
     <mask>*Controller.java</mask>
     <mask>*facade*java</mask>
@@ -16,7 +17,6 @@
     <mask>*feature</mask>
     <mask>*controller.java</mask>
     <mask>*</mask>
-    <mask>*.impex</mask>
     <mask>*properties</mask>
     <mask>*test.java</mask>
     <mask>*items.xml</mask>
@@ -33,5 +33,6 @@
     <mask>*Test.java</mask>
     <mask>*Facade*</mask>
     <mask>*.java</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
