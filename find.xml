@@ -16,7 +16,6 @@
     <mask>*feature</mask>
     <mask>*controller.java</mask>
     <mask>*</mask>
-    <mask>*.impex</mask>
     <mask>*properties</mask>
     <mask>*test.java</mask>
     <mask>*items.xml</mask>
@@ -33,5 +32,6 @@
     <mask>*Test.java</mask>
     <mask>*Facade*</mask>
     <mask>*.java</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
