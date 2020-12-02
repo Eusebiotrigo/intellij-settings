@@ -2193,7 +2193,7 @@
                   </entry>
                   <entry key="ArquillianJUnit">
                     <value>
-                      <FeaturePluginData displayName="Arquillian JUnit" pluginName="Arquillian" pluginId="com.intellij.jboss.arquillian" />
+                      <FeaturePluginData displayName="Arquillian JUnit" pluginName="com.intellij.jboss.arquillian" pluginId="com.intellij.jboss.arquillian" />
                     </value>
                   </entry>
                   <entry key="BSP_TEST_RUN_CONFIGURATION">
@@ -2223,7 +2223,7 @@
                   </entry>
                   <entry key="CucumberRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Cucumber" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="Cucumber" pluginName="org.jetbrains.plugins.ruby" pluginId="org.jetbrains.plugins.ruby" />
                     </value>
                   </entry>
                   <entry key="DatabaseScript">
@@ -2258,22 +2258,22 @@
                   </entry>
                   <entry key="HybrisRemoteTests">
                     <value>
-                      <FeaturePluginData displayName="Hybris Remote Tests" pluginName="hybris integration" pluginId="ccom.intellij.idea.plugin.hybris.impex" />
+                      <FeaturePluginData displayName="Hybris Remote Tests" pluginName="ccom.intellij.idea.plugin.hybris.impex" pluginId="ccom.intellij.idea.plugin.hybris.impex" />
                     </value>
                   </entry>
                   <entry key="HybrisTests">
                     <value>
-                      <FeaturePluginData displayName="Hybris Tests" pluginName="hybris integration" pluginId="ccom.intellij.idea.plugin.hybris.impex" />
+                      <FeaturePluginData displayName="Hybris Tests" pluginName="ccom.intellij.idea.plugin.hybris.impex" pluginId="ccom.intellij.idea.plugin.hybris.impex" />
                     </value>
                   </entry>
                   <entry key="IrbRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="IRB" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="Ruby Console" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
                     </value>
                   </entry>
                   <entry key="JRubyCucumberRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="JRuby Cucumber" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="JRuby Cucumber" pluginName="org.jetbrains.plugins.ruby" pluginId="org.jetbrains.plugins.ruby" />
                     </value>
                   </entry>
                   <entry key="JUnit">
@@ -2316,9 +2316,19 @@
                       <FeaturePluginData displayName="JavaScript Debug" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
                     </value>
                   </entry>
+                  <entry key="MUnitRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="MUnit" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
                   <entry key="MavenRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Maven" pluginName="Maven" pluginId="org.jetbrains.idea.maven" />
+                    </value>
+                  </entry>
+                  <entry key="MicronautRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Micronaut" pluginName="Micronaut" pluginId="com.intellij.micronaut" />
                     </value>
                   </entry>
                   <entry key="NodeJSConfigurationType">
@@ -2338,7 +2348,12 @@
                   </entry>
                   <entry key="Play2FrameworkRunConfigurations">
                     <value>
-                      <FeaturePluginData displayName="Play 2 App" pluginName="Scala" pluginId="org.intellij.scala" />
+                      <FeaturePluginData displayName="Play 2 App" pluginName="org.intellij.scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
+                  <entry key="QuarkusRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Quarkus" pluginName="Quarkus" pluginId="com.intellij.quarkus" />
                     </value>
                   </entry>
                   <entry key="RSpecRunConfigurationType">
@@ -2503,12 +2518,12 @@
                   </entry>
                   <entry key="JRUBY">
                     <value>
-                      <FeaturePluginData displayName="JRuby" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="JRuby" pluginName="org.jetbrains.plugins.ruby" pluginId="org.jetbrains.plugins.ruby" />
                     </value>
                   </entry>
                   <entry key="JRailsFacetType">
                     <value>
-                      <FeaturePluginData displayName="JRuby on Rails" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="JRuby on Rails" pluginName="org.jetbrains.plugins.ruby" pluginId="org.jetbrains.plugins.ruby" />
                     </value>
                   </entry>
                   <entry key="RailsFacetType">
