@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.gradle</mask>
     <mask>*Controller.java</mask>
     <mask>*facade*java</mask>
@@ -22,7 +23,6 @@
     <mask>*jsp</mask>
     <mask>*xml</mask>
     <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>*java</mask>
     <mask>*java</mask>
     <mask>Manor*java</mask>
@@ -33,5 +33,6 @@
     <mask>*Facade*</mask>
     <mask>*.java</mask>
     <mask>*.impex</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
