@@ -3,8 +3,7 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.xml" />
-    <mask>*Controller.java</mask>
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*facade*java</mask>
     <mask>**java</mask>
     <mask>*Controller*java</mask>
@@ -34,5 +33,6 @@
     <mask>definition.xml</mask>
     <mask>*.impex</mask>
     <mask>*.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>

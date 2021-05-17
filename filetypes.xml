@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="jenkinsfile-distribution" type="Groovy" />
       <mapping pattern="jenkinsfile-uat" type="Groovy" />
+      <mapping pattern="Jenkins-release" type="Groovy" />
       <mapping pattern="jenkinsfile-tint" type="Groovy" />
       <mapping pattern="jenkinsfile-daily" type="Groovy" />
       <mapping pattern="jenkinsfile-automation" type="Groovy" />
