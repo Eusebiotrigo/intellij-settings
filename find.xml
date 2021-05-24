@@ -3,7 +3,6 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <mask>**java</mask>
     <mask>*Controller*java</mask>
     <mask>*.feature</mask>
     <mask>*yml</mask>
@@ -33,5 +32,6 @@
     <mask>*.rb</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
