@@ -1,8 +1,0 @@
-<application>
-  <component name="HybrisApplicationSettings">
-    <option name="configPropertyFolding" value="Full" />
-    <option name="lastPluginVersionReleaseNotesShownToUser" value="2021.1.4.0" />
-    <option name="localMacroFolding" value="Full" />
-    <option name="suspendPluginUpdateForVersion" value="2020.3.3.0" />
-  </component>
-</application>
