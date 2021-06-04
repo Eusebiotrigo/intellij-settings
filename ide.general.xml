@@ -7,6 +7,7 @@
     <entry key="terminal.buffer.max.lines.count" value="1000000000" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="eslint.additional.file.extensions" value="svelte" />
+    <entry key="compiler.automake.allow.when.app.running" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
