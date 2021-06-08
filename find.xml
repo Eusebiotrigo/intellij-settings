@@ -8,9 +8,9 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
-    <mask>*.impex</mask>
     <mask>*.java</mask>
     <mask>*populator.java</mask>
     <mask>*.ts</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
