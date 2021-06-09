@@ -1,37 +1,16 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="[y] Custom" />
-    <option name="defaultScopeName" value="[y] Custom" />
-    <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <mask>*Controller*java</mask>
-    <mask>*.feature</mask>
-    <mask>*yml</mask>
-    <mask>*rb</mask>
-    <mask>*gradle</mask>
-    <mask>*feature</mask>
-    <mask>*controller.java</mask>
-    <mask>*</mask>
-    <mask>*properties</mask>
-    <mask>*test.java</mask>
-    <mask>*items.xml</mask>
-    <mask>*jsp</mask>
-    <mask>*xml</mask>
-    <mask>*.js</mask>
-    <mask>*java</mask>
-    <mask>*java</mask>
-    <mask>Manor*java</mask>
-    <mask>Manor*.java</mask>
-    <mask>*impex</mask>
-    <mask>*.tag</mask>
-    <mask>*Test.java</mask>
-    <mask>*Facade*</mask>
-    <mask>definition.xml</mask>
-    <mask>*.impex</mask>
-    <mask>*.gradle</mask>
-    <mask>*-items.xml</mask>
-    <mask>*.rb</mask>
-    <mask>*.java</mask>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*populator.java</mask>
+    <mask>*.ts</mask>
+    <mask>*.impex</mask>
+    <mask>*.jsp</mask>
     <mask>*.properties</mask>
   </component>
 </application>
