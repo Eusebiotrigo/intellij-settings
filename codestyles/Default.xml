@@ -17,6 +17,9 @@
     <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
     <option name="KEEP_BLANK_LINES" value="true" />
   </Properties>
+  <XML>
+    <option name="XML_TEXT_WRAP" value="0" />
+  </XML>
   <codeStyleSettings language="ECMA Script Level 4">
     <indentOptions>
       <option name="TAB_SIZE" value="2" />
