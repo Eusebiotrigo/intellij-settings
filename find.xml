@@ -15,7 +15,7 @@
     <mask>*Controller.java</mask>
     <mask>*.js</mask>
     <mask>*.impex</mask>
-    <mask>*.java</mask>
     <mask>*.tag</mask>
+    <mask>*.java</mask>
   </component>
 </application>
