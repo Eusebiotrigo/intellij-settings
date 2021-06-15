@@ -16,5 +16,6 @@
     <mask>*.js</mask>
     <mask>*.impex</mask>
     <mask>*.java</mask>
+    <mask>*.tag</mask>
   </component>
 </application>
