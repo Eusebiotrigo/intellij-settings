@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -17,5 +18,6 @@
     <mask>*.impex</mask>
     <mask>*.js</mask>
     <mask>*.tag</mask>
+    <mask>*.less</mask>
   </component>
 </application>
