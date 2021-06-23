@@ -3,20 +3,20 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.impex" />
+    <option name="FILE_MASK" value="*.jsp" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*populator.java</mask>
     <mask>*.ts</mask>
-    <mask>*.jsp</mask>
     <mask>*Test.java</mask>
     <mask>*.properties</mask>
     <mask>Duni*.java</mask>
     <mask>*Controller.java</mask>
     <mask>*.js</mask>
     <mask>*.tag</mask>
-    <mask>*.java</mask>
     <mask>*.impex</mask>
+    <mask>*.java</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
