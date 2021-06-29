@@ -9,13 +9,12 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*Test.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*populator.java</mask>
     <mask>*.ts</mask>
     <mask>*.jsp</mask>
-    <mask>*Test.java</mask>
     <mask>*.properties</mask>
     <mask>Duni*.java</mask>
     <mask>*Controller.java</mask>
@@ -24,5 +23,6 @@
     <mask>*.impex</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
