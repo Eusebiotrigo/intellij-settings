@@ -3,19 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
-    <mask>*.html</mask>
-    <mask>*populator.java</mask>
-    <mask>*.ts</mask>
-    <mask>*.jsp</mask>
-    <mask>*.properties</mask>
-    <mask>Duni*.java</mask>
-    <mask>*Controller.java</mask>
-    <mask>*.js</mask>
-    <mask>*.tag</mask>
-    <mask>*.impex</mask>
-    <mask>*Test.java</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
   </component>
 </application>
