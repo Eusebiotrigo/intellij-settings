@@ -3,12 +3,13 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.impex</mask>
+    <mask>*.java</mask>
   </component>
 </application>
