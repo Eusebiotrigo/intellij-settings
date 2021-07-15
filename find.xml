@@ -1,19 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../y-ext/ext-worldpaydemo/worldpayb2cdemo/resources/worldpayb2cdemo/import/productCatalogs/electronicsProductCatalog/products-prices.impex [worldpayb2cdemo]'" />
-    <option name="defaultScopeName" value="File '.../y-ext/ext-worldpaydemo/worldpayb2cdemo/resources/worldpayb2cdemo/import/productCatalogs/electronicsProductCatalog/products-prices.impex [worldpayb2cdemo]'" />
-    <option name="SEARCH_SCOPE" value="File '.../y-ext/ext-worldpaydemo/worldpayb2cdemo/resources/worldpayb2cdemo/import/productCatalogs/electronicsProductCatalog/products-prices.impex [worldpayb2cdemo]'" />
-    <option name="FILE_MASK" value="*prices.impex" />
-    <mask>*.css</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.properties</mask>
-    <mask>*.xml</mask>
-    <mask>*items.xml</mask>
-    <mask>*.java</mask>
-    <mask>*extensioninfo.xml</mask>
-    <mask>*extensions.xml</mask>
-    <mask>*.impex</mask>
-    <mask>*prices.impex</mask>
+    <option name="customScope" value="[y] Custom" />
+    <option name="defaultScopeName" value="[y] Custom" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="[y] Custom" />
   </component>
 </application>
