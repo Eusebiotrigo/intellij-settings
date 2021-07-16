@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*Enum.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -11,5 +11,6 @@
     <mask>*items.xml</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*Enum.java</mask>
   </component>
 </application>
