@@ -17,5 +17,6 @@
     <mask>*.java</mask>
     <mask>*Test.java</mask>
     <mask>*.impex</mask>
+    <mask>*-items.xml</mask>
   </component>
 </application>
