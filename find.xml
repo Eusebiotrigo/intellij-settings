@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="[y] Custom" />
+    <option name="defaultScopeName" value="[y] Custom" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="[y] Custom" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,15 +13,9 @@
     <mask>*Enum.java</mask>
     <mask>!*Test.java</mask>
     <mask>Worldpay*Test.java</mask>
-    <mask>Duni*.java</mask>
-    <mask>*Controller.java</mask>
-    <mask>*.js</mask>
-    <mask>*.tag</mask>
     <mask>*.xml</mask>
     <mask>*Test.xml</mask>
     <mask>*Test.java</mask>
-    <mask>*.impex</mask>
-    <mask>*-items.xml</mask>
     <mask>*.java</mask>
     <mask>Worldpay*.java</mask>
   </component>
