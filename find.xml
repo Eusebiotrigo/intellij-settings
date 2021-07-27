@@ -16,5 +16,6 @@
     <mask>*Test.java</mask>
     <mask>*.java</mask>
     <mask>Worldpay*.java</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
