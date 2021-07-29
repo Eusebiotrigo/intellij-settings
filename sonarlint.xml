@@ -5,14 +5,12 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sonarcloud.io" />
-          <token>df9edfc9df9edfcfdf9bdfcfdfc8dfcbdfcbdf9fdf99df9bdfccdfcbdfcedf93df9cdfc8df9ddf9adfcbdf9adf98dfcedf9adf9cdfcedf9fdfcbdfc9df9cdfcedfcbdf9cdfc8df9bdfccdfcedfc8dfc9</token>
-          <option name="name" value="SonarCloud - e2y" />
+          <token>df9ddf9bdf9cdf9cdf99dfcbdf98dfccdf9ddf9fdf9bdfc8dfc8df9fdf98df9cdfcfdfc9df98df98df9ddfccdfcedfcedfcbdf92df93df93df99dfcfdf93df98df9edf9fdfcbdf98df92df98df93df9f</token>
+          <option name="name" value="e2y sonar" />
           <organizationKey>e2y</organizationKey>
         </SonarQubeServer>
       </list>
     </option>
-    <rules>
-      <Rule active="false" key="java:S1144" />
-    </rules>
+    <rules />
   </component>
 </application>
