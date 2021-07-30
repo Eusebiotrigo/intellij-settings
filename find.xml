@@ -14,11 +14,11 @@
     <mask>*Test.xml</mask>
     <mask>Worldpay*.java</mask>
     <mask>.impex</mask>
-    <mask>*.impex</mask>
     <mask>*test.java</mask>
     <mask>*.xml</mask>
     <mask>*Duni*.java</mask>
     <mask>*.java</mask>
     <mask>*Test.java</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
