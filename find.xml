@@ -23,6 +23,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.impex</mask>
-    <mask>*.impex</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
