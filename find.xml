@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../core-customize/hybris/bin/custom/marketplace/cbimiraklintegration/project.properties [cbimiraklintegration]'" />
+    <option name="defaultScopeName" value="File '.../core-customize/hybris/bin/custom/marketplace/cbimiraklintegration/project.properties [cbimiraklintegration]'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../core-customize/hybris/bin/custom/marketplace/cbimiraklintegration/project.properties [cbimiraklintegration]'" />
     <option name="FILE_MASK" value="*.impex" />
     <mask>*.css</mask>
     <mask>*.html</mask>
