@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="[y] Custom" />
-    <option name="defaultScopeName" value="[y] Custom" />
-    <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.impex" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,10 +17,10 @@
     <mask>.impex</mask>
     <mask>*Duni*.java</mask>
     <mask>*Test.java</mask>
-    <mask>*.impex</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.xml</mask>
     <mask>*test.java</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
