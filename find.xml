@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="[y] Custom" />
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*items.xml</mask>
     <mask>*Enum.java</mask>
@@ -21,5 +20,6 @@
     <mask>*.xml</mask>
     <mask>*.xml</mask>
     <mask>*.impex</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
