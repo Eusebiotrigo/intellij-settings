@@ -6,6 +6,10 @@
           <option name="url" value="http://jupiter.manor.ch" />
           <option name="userName" value="eusebio.trigo" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="e2yEusebioTrigo" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
