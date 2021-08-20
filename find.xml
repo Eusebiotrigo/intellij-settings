@@ -6,23 +6,11 @@
     <option name="FILE_MASK" value="*.impex" />
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.properties</mask>
-    <mask>*items.xml</mask>
-    <mask>*Enum.java</mask>
-    <mask>!*Test.java</mask>
-    <mask>Worldpay*Test.java</mask>
-    <mask>*Test.xml</mask>
-    <mask>Worldpay*.java</mask>
-    <mask>.impex</mask>
-    <mask>*Duni*.java</mask>
-    <mask>*Test.java</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
-    <mask>*.jsp</mask>
-    <mask>*test.java</mask>
+    <mask>*.java</mask>
     <mask>*.properties</mask>
-    <mask>*Controller.java</mask>
+    <mask>*.tag</mask>
+    <mask>*.jsp</mask>
     <mask>*.impex</mask>
   </component>
 </application>
