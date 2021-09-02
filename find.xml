@@ -3,18 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="Cheny*Test.java" />
-    <mask>*.css</mask>
-    <mask>*.html</mask>
-    <mask>*.java</mask>
-    <mask>*.tag</mask>
-    <mask>*.jsp</mask>
-    <mask>*items.xml</mask>
-    <mask>*.tag, *.jsp</mask>
-    <mask>*.properties</mask>
-    <mask>*.impex</mask>
-    <mask>*.xml</mask>
-    <mask>*Test.java</mask>
-    <mask>Cheny*Test.java</mask>
   </component>
 </application>
