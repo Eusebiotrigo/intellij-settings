@@ -3,16 +3,14 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.java</mask>
-    <mask>*.tag</mask>
     <mask>*.jsp</mask>
-    <mask>*items.xml</mask>
-    <mask>*.tag, *.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.impex</mask>
     <mask>*Test.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
