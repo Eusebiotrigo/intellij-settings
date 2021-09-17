@@ -12,5 +12,7 @@
     <mask>*.xml</mask>
     <mask>*items.xml</mask>
     <mask>*.impex</mask>
+    <mask>extensionin.xml</mask>
+    <mask>extensioninfo.xml</mask>
   </component>
 </application>
