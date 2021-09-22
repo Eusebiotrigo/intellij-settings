@@ -12,8 +12,8 @@
     <mask>*.java</mask>
     <mask>*.tag</mask>
     <mask>*.js</mask>
-    <mask>*.jsp</mask>
     <mask>*addon*.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
