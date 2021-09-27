@@ -7,9 +7,9 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*items.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*items.xml</mask>
     <mask>extensioninfo.xml</mask>
     <mask>*.properties</mask>
     <mask>*addon*.xml</mask>
@@ -20,5 +20,6 @@
     <mask>*.xml</mask>
     <mask>*.impex</mask>
     <mask>*test.java</mask>
+    <mask>*items.xml</mask>
   </component>
 </application>
