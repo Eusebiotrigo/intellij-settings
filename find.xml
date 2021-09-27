@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="[y] Custom" />
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*items.xml</mask>
     <mask>extensioninfo.xml</mask>
     <mask>*.properties</mask>
     <mask>*addon*.xml</mask>
@@ -16,5 +15,6 @@
     <mask>*.xml</mask>
     <mask>*.impex</mask>
     <mask>*test.java</mask>
+    <mask>*items.xml</mask>
   </component>
 </application>
