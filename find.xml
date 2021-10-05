@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>extensioninfo.xml</mask>
@@ -12,11 +11,11 @@
     <mask>*.jsp</mask>
     <mask>*.tag</mask>
     <mask>*.js</mask>
-    <mask>*.impex</mask>
     <mask>*test.java</mask>
     <mask>*items.xml</mask>
     <mask>*Populator.java</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
