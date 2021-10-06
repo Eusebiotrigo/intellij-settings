@@ -2,24 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
-    <mask>*.html</mask>
-    <mask>extensioninfo.xml</mask>
-    <mask>*.properties</mask>
-    <mask>*addon*.xml</mask>
-    <mask>*.jsp</mask>
-    <mask>*.tag</mask>
-    <mask>*.js</mask>
-    <mask>*.impex</mask>
-    <mask>*test.java</mask>
-    <mask>*items.xml</mask>
-    <mask>*Populator.java</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
   </component>
 </application>
