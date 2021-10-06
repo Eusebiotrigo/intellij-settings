@@ -3,11 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.impex" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>extensioninfo.xml</mask>
-    <mask>*.properties</mask>
     <mask>*addon*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.tag</mask>
@@ -18,5 +17,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.impex</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
