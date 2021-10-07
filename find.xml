@@ -9,14 +9,10 @@
     <mask>extensioninfo.xml</mask>
     <mask>*addon*.xml</mask>
     <mask>*.jsp</mask>
-    <mask>*.tag</mask>
-    <mask>*.js</mask>
-    <mask>*test.java</mask>
-    <mask>*items.xml</mask>
-    <mask>*Populator.java</mask>
-    <mask>*.xml</mask>
+    <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.impex</mask>
+    <mask>*dao.java</mask>
+    <mask>*.xml</mask>
     <mask>*.properties</mask>
   </component>
 </application>
