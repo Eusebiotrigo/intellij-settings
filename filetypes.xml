@@ -3,12 +3,6 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
-      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
     </extensionMap>
   </component>
 </application>
