@@ -1,5 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/workspace/e2yshowcase/jenkins/jenkinsfile-tint" value="Groovy" />
     <file url="file://$USER_HOME$/workspace/sirvis/jenkins/jenkinsfile-daily" value="Groovy" />
     <file url="file://$USER_HOME$/workspace/sirvis/jenkins/jenkinsfile-tint" value="Groovy" />
     <file url="file://$USER_HOME$/workspace/yPay/jenkins/jenkinsfile-daily" value="Groovy" />
