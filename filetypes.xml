@@ -2,6 +2,10 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="gdsl" type="AUTO_DETECTED" />
+      <mapping pattern="jenkinsfile-distribution" type="Groovy" />
+      <mapping pattern="jenkinsfile-release" type="Groovy" />
+      <mapping pattern="jenkinsfile-tint" type="Groovy" />
+      <mapping pattern="jenkinsfile-uat" type="Groovy" />
       <mapping pattern="jenkinsfile-daily" type="Groovy" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
