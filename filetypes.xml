@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="gdsl" type="AUTO_DETECTED" />
-      <mapping ext="csv" type="CSV file" />
-      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping pattern="jenkinsfile-distribution" type="Groovy" />
       <mapping pattern="jenkinsfile-release" type="Groovy" />
       <mapping pattern="jenkinsfile-tint" type="Groovy" />
@@ -13,6 +11,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
