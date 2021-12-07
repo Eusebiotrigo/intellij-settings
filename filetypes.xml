@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="gdsl" type="AUTO_DETECTED" />
+      <mapping ext="csv" type="CSV file" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping pattern="jenkinsfile-distribution" type="Groovy" />
       <mapping pattern="jenkinsfile-release" type="Groovy" />
       <mapping pattern="jenkinsfile-tint" type="Groovy" />
