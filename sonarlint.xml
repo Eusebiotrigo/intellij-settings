@@ -1,6 +1,19 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="nodejsPath" value="" />
+    <option name="rulesByKey">
+      <map>
+        <entry key="javascript:S1128">
+          <value>
+            <Rule active="false" key="javascript:S1128" />
+          </value>
+        </entry>
+        <entry key="javascript:S3317">
+          <value>
+            <Rule active="false" key="javascript:S3317" />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
@@ -11,6 +24,9 @@
         </SonarQubeServer>
       </list>
     </option>
-    <rules />
+    <rules>
+      <Rule active="false" key="javascript:S1128" />
+      <Rule active="false" key="javascript:S3317" />
+    </rules>
   </component>
 </application>
