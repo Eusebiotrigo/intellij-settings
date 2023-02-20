@@ -13,8 +13,8 @@
     <mask>*.xml</mask>
     <mask>*.impex</mask>
     <mask>*.yml</mask>
-    <mask>*.gradle</mask>
     <mask>*.ts</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
