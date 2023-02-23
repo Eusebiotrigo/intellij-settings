@@ -9,9 +9,9 @@
       <mapping pattern="jenkinsfile-tint" type="Groovy" />
       <mapping pattern="jenkinsfile-uat" type="Groovy" />
       <mapping pattern="jenkinsfile-daily" type="Groovy" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
