@@ -16,5 +16,7 @@
     <mask>*.ts</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
+    <mask>*.json</mask>
+    <mask>package.json</mask>
   </component>
 </application>
