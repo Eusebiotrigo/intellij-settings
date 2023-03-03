@@ -9,6 +9,7 @@
       <mapping pattern="jenkinsfile-tint" type="Groovy" />
       <mapping pattern="jenkinsfile-uat" type="Groovy" />
       <mapping pattern="jenkinsfile-daily" type="Groovy" />
+      <removed_mapping pattern="remix.config.js" type="JavaScript" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
