@@ -9,7 +9,6 @@
       <mapping pattern="jenkinsfile-tint" type="Groovy" />
       <mapping pattern="jenkinsfile-uat" type="Groovy" />
       <mapping pattern="jenkinsfile-daily" type="Groovy" />
-      <removed_mapping pattern="remix.config.js" type="JavaScript" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -19,6 +18,7 @@
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".dev.vars" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="remix.config.js" type="JavaScript" />
     </extensionMap>
   </component>
 </application>
