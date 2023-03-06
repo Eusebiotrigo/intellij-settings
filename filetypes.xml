@@ -18,7 +18,7 @@
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".dev.vars" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="remix.config.js" type="JavaScript" />
+      <removed_mapping pattern="remix.config.js" approved="true" type="JavaScript" />
     </extensionMap>
   </component>
 </application>
