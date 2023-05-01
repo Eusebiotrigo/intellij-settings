@@ -19,5 +19,6 @@
     <mask>*.json</mask>
     <mask>package.json</mask>
     <mask>*.spec.ts</mask>
+    <mask>*.toml</mask>
   </component>
 </application>
