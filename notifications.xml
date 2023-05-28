@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Dismiss notifications about package.json" displayType="STICKY_BALLOON" />
+  </component>
+</application>
