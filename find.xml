@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -13,12 +14,12 @@
     <mask>*.xml</mask>
     <mask>*.impex</mask>
     <mask>*.yml</mask>
-    <mask>*.ts</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*.json</mask>
     <mask>package.json</mask>
     <mask>*.spec.ts</mask>
     <mask>*.toml</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
